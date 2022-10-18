@@ -1,2 +1,2 @@
-# galytix
+# Galytix
 Placement drive
